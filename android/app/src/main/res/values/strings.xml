@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">frontEnd</string>
+    <string name="title_activity_main">frontEnd</string>
+    <string name="package_name">dreanJournal.com</string>
+    <string name="custom_url_scheme">dreanJournal.com</string>
+</resources>
